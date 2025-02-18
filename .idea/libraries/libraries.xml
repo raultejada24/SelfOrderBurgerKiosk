@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libraries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/UrjcBankServer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/BurgerSelfOrderKioskSimulator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/UrjcBankServer - copia.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

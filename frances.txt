@@ -1,0 +1,118 @@
+Iniciar nuevo pedido
+Commencer une nouvelle commande
+Selecciona idioma
+Sélectionnez la langue
+BIENVENIDOS
+BIENVENUE
+Añadir menú
+Ajouter un menu
+Añadir producto individual
+Ajouter un produit individuel
+Finalizar pedido y pagar
+Terminer la commande et payer
+Cancelar pedido
+Annuler la commande
+ELIGE
+CHOISIR
+Selecciona un idioma
+Sélectionner une langue
+Elige
+Choisir
+Añadir elemento al menu
+Ajouter un élément au menu
+Cancelar producto
+Annuler le produit
+Cancelar pedido
+Annuler la commande
+Añadir menu
+Ajouter un menu
+Añadir producto individual
+Ajouter un produit individuel
+Finalizar pedido y pagar
+Terminer la commande et payer
+Elegir tipo de producto
+Choisir le type de produit
+Cancelar producto del pedido
+Annuler le produit de la commande
+Seleccionar
+Sélectionner
+Selecciona un producto
+Sélectionnez un produit
+Añadir más productos al pedido
+Ajouter plus de produits à la commande
+Cancelar Pedido
+Annuler la commande
+RESUMEN DEL PEDIDO
+RÉSUMÉ DE LA COMMANDE
+No hay productos seleccionados
+Aucun produit sélectionné
+Introduzca la tarjeta para pagar
+Insérez la carte pour payer
+CONEXIÓN FALLIDA
+CONNEXION ÉCHOUÉE
+CONEXIÓN CON EXITO
+CONNEXION RÉUSSIE
+ERROR, EL PAGO NO HA SIDO REALIZADO
+ERREUR, LE PAIEMENT N'A PAS ÉTÉ RÉALISÉ
+Elige tipo de producto
+Choisir le type de produit
+HAMBURGUESAS
+HAMBURGERS
+BEBIDAS
+BOISSONS
+COMPLEMENTOS
+COMPLÉMENTS
+Añadir producto
+Ajouter un produit
+Cancelar Producto
+Annuler le produit
+Confirmar pedido
+Confirmer la commande
+Introduzca la tarjeta para pagar
+Insérez la carte pour payer
+Carnes de res rubia Gallega de 160 g
+Viande de bœuf galicienne blonde de 160 g
+Panes de hamburguesa 'CRISTAL CROCAN'
+Pain à hamburger 'CRISTAL CROCAN'
+Chicken supercrujiente. Pan brioche, salsa césar coreana
+Poulet super croustillant. Pain brioché, sauce César coréenne
+Hecho a base de plantas.
+À base de plantes.
+Pan brioche, salsa césar coreana
+Pain brioché, sauce César coréenne
+Coca Cola normal
+Coca Cola normale
+Coca Cola. Sin azúcar
+Coca Cola. Sans sucre
+Coca Cola. Sin azúcar y sin cafeína
+Coca Cola. Sans sucre et sans caféine
+Fanta Naranja. Sin azúcares
+Fanta Orange. Sans sucre
+Agua mineral
+Eau minérale
+Cerveza Grande
+Grande bière
+Alitas de pollo, grandes y sabrosas, para los hambrientos amantes del buen pollo.
+Ailes de poulet, grandes et savoureuses, pour les affamés amateurs de bon poulet.
+Para compartir, redondos, sabrosos, crujientes y dorados
+À partager, ronds, savoureux, croustillants et dorés
+Deliciosas Patatas Supreme con la nueva salsa Sour Cream.
+Délicieuses pommes de terre Supreme avec la nouvelle sauce Sour Cream.
+Hechos de pollo rebozado, acompañados de estas deliciosas salsas: BBQ, Deluxe, Buffalo y Agridulce.
+Faits de poulet pané, accompagnés de ces délicieuses sauces : BBQ, Deluxe, Buffalo et Aigre-Douce.
+Ensalada de la Huerta con una mezcla de lechuga fresca y los mejores tomatitos cherry. Es el complemento ideal.
+Salade de jardin avec un mélange de laitue fraîche et les meilleures tomates cerises. C'est le complément idéal.
+Postre delicioso de pastel de manzana caliente con un toque de canela, envuelto en hojaldre.
+Délicieux dessert de tarte aux pommes chaude avec une touche de cannelle, enveloppé dans une pâte feuilletée.
+Sundae de Chocolate Negro que combina nuestro helado con un rico sirope de chocolate negro.
+Sundae au chocolat noir qui combine notre glace avec un délicieux sirop de chocolat noir.
+Deliciosa piña muy refrescante para consumir en cualquier momento del día
+Délicieuse ananas très rafraîchissante à consommer à tout moment de la journée
+Este delicioso postre combina nuestro helado con crujientes trozos de las clásicas galletas Oreo.
+Ce délicieux dessert combine notre glace avec des morceaux croquants des célèbres biscuits Oreo.
+Las mejores, las más crujientes, las que tienen más sabor.
+Les meilleures, les plus croustillantes, celles qui ont le plus de saveur.
+Crujientes, dorados, deliciosos. Los nuggets de toda la vida, con todo su sabor, pero hechos con plantas.
+Croustillants, dorés, délicieux. Les nuggets traditionnels, mais faits avec des plantes.
+
+

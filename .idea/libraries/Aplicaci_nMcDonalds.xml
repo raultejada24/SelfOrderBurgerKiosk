@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Aplicaci_nMcDonalds">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Aplicaci_nMcDonalds.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

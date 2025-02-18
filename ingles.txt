@@ -1,0 +1,121 @@
+Iniciar nuevo pedido
+Start new order
+Selecciona idioma
+Select language
+BIENVENIDOS
+WELCOME
+Añadir menú
+Add menu
+Añadir producto individual
+Add individual product
+Finalizar pedido y pagar
+Complete order and pay
+Cancelar pedido
+Cancel order
+ELIGE
+CHOOSE
+Selecciona un idioma
+Select a language
+Elige
+Choose
+Añadir elemento al menu
+Add item to menu
+Cancelar producto
+Cancel product
+Cancelar pedido
+Cancel order
+Añadir menu
+Add menu
+Añadir producto individual
+Add individual product
+Finalizar pedido y pagar
+Complete order and pay
+Elegir tipo de producto
+Choose product type
+Cancelar producto del pedido
+Cancel product from order
+Seleccionar
+Select
+Selecciona un producto
+Select a product
+Añadir más productos al pedido
+Add more products to order
+Cancelar Pedido
+Cancel Order
+RESUMEN DEL PEDIDO
+ORDER SUMMARY
+No hay productos seleccionados
+No products selected
+Introduzca la tarjeta para pagar
+Insert card to pay
+CONEXIÓN FALLIDA
+CONNECTION FAILED
+CONEXIÓN CON EXITO
+CONNECTION SUCCESSFUL
+ERROR, EL PAGO NO HA SIDO REALIZADO
+ERROR, PAYMENT NOT COMPLETED
+Elige tipo de producto
+Choose product type
+HAMBURGUESAS
+BURGERS
+BEBIDAS
+DRINKS
+COMPLEMENTOS
+SIDES
+Añadir producto
+Add product
+Cancelar Producto
+Cancel Product
+Confirmar pedido
+Confirm order
+Introduzca la tarjeta para pagar
+Insert card to pay
+Carnes de res rubia Gallega de 160 g
+Galician blonde beef 160g
+Panes de hamburguesa 'CRISTAL CROCAN'
+'CRISTAL CROCAN' burger buns
+Chicken supercrujiente.
+Super crispy chicken.
+Pan brioche, salsa césar coreana
+Brioche bun, Korean Caesar sauce
+Hecho a base de plantas.
+Made with plants.
+Pan brioche, salsa césar coreana
+Brioche bun, Korean Caesar sauce
+Coca Cola normal
+Coca Cola regular
+Coca Cola. Sin azúcar
+Coca Cola. Sugar-free
+Coca Cola. Sin azúcar y sin cafeína
+Coca Cola. Sugar-free and caffeine-free
+Fanta Naranja. Sin azúcares
+Fanta Orange. Sugar-free
+Agua mineral
+Mineral water
+Cerveza Grande
+Large beer
+Alitas de pollo, grandes y sabrosas, para los hambrientos amantes del buen pollo.
+Chicken wings, big and tasty, for hungry lovers of good chicken.
+Para compartir, redondos, sabrosos, crujientes y dorados
+For sharing, round, tasty, crispy, and golden
+Deliciosas Patatas Supreme con la nueva salsa Sour Cream.
+Delicious Supreme fries with new Sour Cream sauce.
+Hechos de pollo rebozado, acompañados de estas deliciosas salsas: BBQ, Deluxe, Buffalo y Agridulce.
+Made with breaded chicken, served with these delicious sauces: BBQ, Deluxe, Buffalo, and Sweet & Sour.
+Ensalada de la Huerta con una mezcla de lechuga fresca y los mejores tomatitos cherry. Es el complemento ideal.
+Garden salad with a mix of fresh lettuce and the best cherry tomatoes. It’s the ideal side.
+Postre delicioso de pastel de manzana caliente con un toque de canela, envuelto en hojaldre.
+Delicious dessert of warm apple pie with a touch of cinnamon, wrapped in puff pastry.
+Sundae de Chocolate Negro que combina nuestro helado con un rico sirope de chocolate negro.
+Dark Chocolate Sundae that combines our ice cream with a rich dark chocolate syrup.
+Deliciosa piña muy refrescante para consumir en cualquier momento del día
+Delicious pineapple, very refreshing to consume at any time of day
+Este delicioso postre combina nuestro helado con crujientes trozos de las clásicas galletas Oreo.
+This delicious dessert combines our ice cream with crispy pieces of classic Oreo cookies.
+Las mejores, las más crujientes, las que tienen más sabor.
+The best, the crispiest, the ones with the most flavor.
+Crujientes, dorados, deliciosos. Los nuggets de toda la vida, con todo su sabor, pero hechos con plantas.
+Crispy, golden, delicious. The classic nuggets, with all their flavor, but made with plants.
+
+
+

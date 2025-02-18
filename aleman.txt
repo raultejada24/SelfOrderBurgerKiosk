@@ -1,0 +1,119 @@
+Iniciar nuevo pedido
+Neuen Auftrag starten
+Selecciona idioma
+Sprache wählen
+BIENVENIDOS
+WILLKOMMEN
+Añadir menú
+Menü hinzufügen
+Añadir producto individual
+Einzelprodukt hinzufügen
+Finalizar pedido y pagar
+Bestellung abschließen und bezahlen
+Cancelar pedido
+Bestellung stornieren
+ELIGE
+WÄHLEN
+Selecciona un idioma
+Sprache wählen
+Elige
+Wählen
+Añadir elemento al menu
+Element zum Menü hinzufügen
+Cancelar producto
+Produkt stornieren
+Cancelar pedido
+Bestellung stornieren
+Añadir menu
+Menü hinzufügen
+Añadir producto individual
+Einzelprodukt hinzufügen
+Finalizar pedido y pagar
+Bestellung abschließen und bezahlen
+Elegir tipo de producto
+Produkttyp wählen
+Cancelar producto del pedido
+Produkt aus der Bestellung stornieren
+Seleccionar
+Wählen
+Selecciona un producto
+Wählen Sie ein Produkt
+Añadir más productos al pedido
+Mehr Produkte zur Bestellung hinzufügen
+Cancelar Pedido
+Bestellung stornieren
+RESUMEN DEL PEDIDO
+BESTELLÜBERSICHT
+No hay productos seleccionados
+Keine Produkte ausgewählt
+Introduzca la tarjeta para pagar
+Karte zum Bezahlen einführen
+CONEXIÓN FALLIDA
+VERBINDUNG FEHLGESCHLAGEN
+CONEXIÓN CON EXITO
+VERBINDUNG ERFOLGREICH
+ERROR, EL PAGO NO HA SIDO REALIZADO
+FEHLER, BEZAHLUNG WURDE NICHT ABGESCHLOSSEN
+Elige tipo de producto
+Produkttyp wählen
+HAMBURGUESAS
+HAMBURGER
+BEBIDAS
+GETRÄNKE
+COMPLEMENTOS
+BEILAGEN
+Añadir producto
+Produkt hinzufügen
+Cancelar Producto
+Produkt stornieren
+Confirmar pedido
+Bestellung bestätigen
+Introduzca la tarjeta para pagar
+Karte zum Bezahlen einführen
+Carnes de res rubia Gallega de 160 g
+Rindfleisch von Galizien in 160 g
+Panes de hamburguesa 'CRISTAL CROCAN'
+Hamburger Brötchen 'CRISTAL CROCAN'
+Chicken supercrujiente.
+Superkros Hähnchen.
+Pan brioche, salsa césar coreana
+Brioche-Brötchen, koreanische Caesar-Sauce
+Hecho a base de plantas.
+Aus Pflanzen hergestellt.
+Pan brioche, salsa césar coreana
+Brioche-Brötchen, koreanische Caesar-Sauce
+Coca Cola normal
+Coca Cola normal
+Coca Cola. Sin azúcar
+Coca Cola. Ohne Zucker
+Coca Cola. Sin azúcar y sin cafeína
+Coca Cola. Ohne Zucker und koffeinfrei
+Fanta Naranja. Sin azúcares
+Fanta Orange. Ohne Zucker
+Agua mineral
+Mineralwasser
+Cerveza Grande
+Großes Bier
+Alitas de pollo, grandes y sabrosas, para los hambrientos amantes del buen pollo.
+Hähnchenflügel, groß und lecker, für hungrige Liebhaber des guten Hähnchens.
+Para compartir, redondos, sabrosos, crujientes y dorados
+Zum Teilen, rund, lecker, knusprig und goldbraun
+Deliciosas Patatas Supreme con la nueva salsa Sour Cream.
+Leckere Supreme-Pommes mit neuer Sour-Cream-Sauce.
+Hechos de pollo rebozado, acompañados de estas deliciosas salsas: BBQ, Deluxe, Buffalo y Agridulce.
+Mit paniertem Hähnchen, serviert mit diesen leckeren Saucen: BBQ, Deluxe, Buffalo und Süß-Sauer.
+Ensalada de la Huerta con una mezcla de lechuga fresca y los mejores tomatitos cherry. Es el complemento ideal.
+Gemüsesalat mit einer Mischung aus frischem Kopfsalat und den besten Kirschtomaten. Es ist das perfekte Zubehör.
+Postre delicioso de pastel de manzana caliente con un toque de canela, envuelto en hojaldre.
+Leckeres Dessert aus heißem Apfelkuchen mit einem Hauch Zimt, eingewickelt in Blätterteig.
+Sundae de Chocolate Negro que combina nuestro helado con un rico sirope de chocolate negro.
+Schwarzes Schokoladensundae, das unser Eis mit einem köstlichen schwarzen Schokoladensirup kombiniert.
+Deliciosa piña muy refrescante para consumir en cualquier momento del día
+Leckere Ananas, die sehr erfrischend ist und zu jeder Tageszeit genossen werden kann
+Este delicioso postre combina nuestro helado con crujientes trozos de las clásicas galletas Oreo.
+Dieses leckere Dessert kombiniert unser Eis mit knusprigen Stücken der klassischen Oreo-Kekse.
+Las mejores, las más crujientes, las que tienen más sabor.
+Die besten, die knusprigsten, die mit dem meisten Geschmack.
+Crujientes, dorados, deliciosos. Los nuggets de toda la vida, con todo su sabor, pero hechos con plantas.
+Knusprig, goldbraun und köstlich. Die Nuggets, wie man sie kennt, aber aus Pflanzen gemacht.
+

@@ -1,0 +1,121 @@
+Iniciar nuevo pedido
+Iniciar nuevo pedido
+Selecciona idioma
+Selecciona idioma
+BIENVENIDOS
+BIENVENIDOS
+Añadir menú
+Añadir menú
+Añadir producto individual
+Añadir producto individual
+Finalizar pedido y pagar
+Finalizar pedido y pagar
+Cancelar pedido
+Cancelar pedido
+ELIGE
+ELIGE
+Selecciona un idioma
+Selecciona un idioma
+Elige
+Elige
+Añadir elemento al menu
+Añadir elemento al menú
+Cancelar producto
+Cancelar producto
+Cancelar pedido
+Cancelar pedido
+Añadir menu
+Añadir menú
+Añadir producto individual
+Añadir producto individual
+Finalizar pedido y pagar
+Finalizar pedido y pagar
+Elegir tipo de producto
+Elegir tipo de producto
+Cancelar producto del pedido
+Cancelar producto del pedido
+Seleccionar
+Seleccionar
+Selecciona un producto
+Selecciona un producto
+Añadir más productos al pedido
+Añadir más productos al pedido
+Cancelar Pedido
+Cancelar Pedido
+RESUMEN DEL PEDIDO
+RESUMEN DEL PEDIDO
+No hay productos seleccionados
+No hay productos seleccionados
+Introduzca la tarjeta para pagar
+Introduzca la tarjeta para pagar
+CONEXIÓN FALLIDA
+CONEXIÓN FALLIDA
+CONEXIÓN CON EXITO
+CONEXIÓN CON ÉXITO
+ERROR, EL PAGO NO HA SIDO REALIZADO
+ERROR, EL PAGO NO HA SIDO REALIZADO
+Elige tipo de producto
+Elige tipo de producto
+HAMBURGUESAS
+HAMBURGUESAS
+BEBIDAS
+BEBIDAS
+COMPLEMENTOS
+COMPLEMENTOS
+Añadir producto
+Añadir producto
+Cancelar Producto
+Cancelar Producto
+Confirmar pedido
+Confirmar pedido
+Introduzca la tarjeta para pagar
+Introduzca la tarjeta para pagar
+Carnes de res rubia Gallega de 160 g
+Carnes de res rubia Gallega de 160 g
+Panes de hamburguesa 'CRISTAL CROCAN'
+Panes de hamburguesa 'CRISTAL CROCAN'
+Chicken supercrujiente.
+Chicken supercrujiente.
+Pan brioche, salsa césar coreana
+Pan brioche, salsa césar coreana
+Hecho a base de plantas.
+Hecho a base de plantas.
+Pan brioche, salsa césar coreana
+Pan brioche, salsa césar coreana
+Coca Cola normal
+Coca Cola normal
+Coca Cola. Sin azúcar
+Coca Cola. Sin azúcar
+Coca Cola. Sin azúcar y sin cafeína
+Coca Cola. Sin azúcar y sin cafeína
+Fanta Naranja. Sin azúcares
+Fanta Naranja. Sin azúcares
+Agua mineral
+Agua mineral
+Cerveza Grande
+Cerveza Grande
+Alitas de pollo, grandes y sabrosas, para los hambrientos amantes del buen pollo.
+Alitas de pollo, grandes y sabrosas, para los hambrientos amantes del buen pollo.
+Para compartir, redondos, sabrosos, crujientes y dorados
+Para compartir, redondos, sabrosos, crujientes y dorados
+Deliciosas Patatas Supreme con la nueva salsa Sour Cream.
+Deliciosas Patatas Supreme con la nueva salsa Sour Cream.
+Hechos de pollo rebozado, acompañados de estas deliciosas salsas: BBQ, Deluxe, Buffalo y Agridulce.
+Hechos de pollo rebozado, acompañados de estas deliciosas salsas: BBQ, Deluxe, Buffalo y Agridulce.
+Ensalada de la Huerta con una mezcla de lechuga fresca y los mejores tomatitos cherry. Es el complemento ideal.
+Ensalada de la Huerta con una mezcla de lechuga fresca y los mejores tomatitos cherry. Es el complemento ideal.
+Postre delicioso de pastel de manzana caliente con un toque de canela, envuelto en hojaldre.
+Postre delicioso de pastel de manzana caliente con un toque de canela, envuelto en hojaldre.
+Sundae de Chocolate Negro que combina nuestro helado con un rico sirope de chocolate negro.
+Sundae de Chocolate Negro que combina nuestro helado con un rico sirope de chocolate negro.
+Deliciosa piña muy refrescante para consumir en cualquier momento del día
+Deliciosa piña muy refrescante para consumir en cualquier momento del día
+Este delicioso postre combina nuestro helado con crujientes trozos de las clásicas galletas Oreo.
+Este delicioso postre combina nuestro helado con crujientes trozos de las clásicas galletas Oreo.
+Las mejores, las más crujientes, las que tienen más sabor.
+Las mejores, las más crujientes, las que tienen más sabor.
+Crujientes, dorados, deliciosos. Los nuggets de toda la vida, con todo su sabor, pero hechos con plantas.
+Crujientes, dorados, deliciosos. Los nuggets de toda la vida, con todo su sabor, pero hechos con plantas.
+
+
+
