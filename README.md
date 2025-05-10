@@ -8,13 +8,13 @@
 
 ## 📑 Tabla de Contenidos
 
-- [Características](#características)
-- [Interfaz de Usuario](#interfaz-de-usuario)
-- [Roles](#roles)
-- [Sistema de Pedidos](#sistema-de-pedidos)
-- [Instalación y Configuración](#instalación-y-configuración)
-- [Ejecución](#ejecución)
-- [FAQ](#faq)
+- [Características]
+- [Interfaz de Usuario]
+- [Roles]
+- [Sistema de Pedidos]
+- [Instalación y Configuración]
+- [Ejecución]
+- [FAQ]
 
 ---
 
