@@ -14,8 +14,6 @@
 - [Sistema de Pedidos](#sistema-de-pedidos)
 - [Instalación y Configuración](#instalación-y-configuración)
 - [Ejecución](#ejecución)
-- [Pruebas](#pruebas)
-- [Documentación](#documentación)
 - [FAQ](#faq)
 
 ---
